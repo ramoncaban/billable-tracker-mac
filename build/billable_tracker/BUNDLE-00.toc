@@ -1,0 +1,3 @@
+([('billable_tracker',
+   '/Users/ramoncaban/Documents/GitHub/billable-tracker-mac/billable-tracker-mac/dist/billable_tracker',
+   'EXECUTABLE')],)
